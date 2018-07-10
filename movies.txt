@@ -2,3 +2,4 @@ Titanic
 Avatar
 Avengers
 Spider-Man
+Superman
